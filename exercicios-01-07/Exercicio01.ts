@@ -1,4 +1,3 @@
-import { log } from "console";
 import readlinesync = require("readline-sync");
 
 const cores: Array<string> = new Array<string>();
